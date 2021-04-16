@@ -3,7 +3,6 @@
 
 import random
 
-
 def one_game(menace1, player1, player2):
     first_menace_turn = 0
     if player2 == "Menace":
