@@ -1,5 +1,5 @@
 # TicTacToe implementation of different AI
-# There's 3 of them.
+# There's 3 of them
 
 import random
 
